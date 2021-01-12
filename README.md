@@ -11,9 +11,9 @@
  </p>
   
 
-### Things that actually matter
+### Facts that actually matter
 <p>
-- Stupid fact: You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek <br>
+- You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek <br>
 - Walmart ha s lower acceptance rate than Harvard. <br>
 - hippopotomonstrosesquippedaliophobia is the fear of long words. <br>
 - 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. <br>
