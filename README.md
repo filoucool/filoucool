@@ -1,9 +1,9 @@
 ### Greetings,
 
 ### About me:
-  I think like a programmer but act like a hacker (ethical, Right? Right...?)  
+  <p>I think like a programmer but act like a hacker (ethical, Right? Right...?)  
   I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
-        Confused yet? Me too
+        Confused yet? Me too </p>
 
 ### Things that dont really matter
 - I’m currently working on too many things. smh
@@ -20,3 +20,5 @@
 -</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool" /> </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
