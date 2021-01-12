@@ -17,6 +17,8 @@
 - Walmart ha s lower acceptance rate than Harvard. <br>
 - hippopotomonstrosesquippedaliophobia is the fear of long words. <br>
 - 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. <br>
+- Flowers grow faster in a viagra solution. <br>
+-If you farted for 6yrs, 9Mths, you would've produced enough gas to create the energy of an atomic bomb. <br>
 </p>
 
 ### What am I actually working on?
