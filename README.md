@@ -42,5 +42,6 @@
 
 <p> Idk... my profile is pretty basic uh!?</p>
 
-[![SC2 Video](https://img.youtube.com/vi/Kppx4bzfAaE/0.jpg)](https://www.youtube.com/watch?v=Kppx4bzfAaE)
+<h3>Avongers assembol</h3>
+[![SC2 Video](https://img.youtube.com/vi/B3WJaC-7g2c/0.jpg)](https://www.youtube.com/watch?v=B3WJaC-7g2c)
 
