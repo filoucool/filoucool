@@ -11,3 +11,12 @@
 - I’m looking to collaborate on a major robot to take over the world.
 - Ask me about whatever you want. 
 - Stupid fact: You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek
+
+### What am I actually working on?
+-A huge autonomous robot to plow my driveway because I'm a lazy fuck.
+-A walking Keurig coffee pod (I wish I was joking tbh)
+-Bringing back to life a PC-BOT 914...
+-I might be starting a 4th business? IDK... too early to tell...
+-
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool" /> </p>
