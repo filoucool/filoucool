@@ -42,5 +42,5 @@
 
 <p> Idk... my profile is pretty basic uh!?</p>
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://www.youtube.com/watch?v=Kppx4bzfAaE)
+[![SC2 Video](https://img.youtube.com/vi/Kppx4bzfAaE/0.jpg)](https://www.youtube.com/watch?v=Kppx4bzfAaE)
 
