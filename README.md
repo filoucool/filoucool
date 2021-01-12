@@ -30,7 +30,7 @@
 <li> I might be starting a 4th business? IDK... too early to tell... </li>
 <li> Buying a house. IDK sounds like a good idea...? </li>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
-<li> Taking life seriously. </li>
+<li> Taking life seriously. ❌ </li>
 </ol>
 </p>
 
