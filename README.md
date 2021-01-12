@@ -41,3 +41,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool" /> </p>
 
 <p> Idk... my profile is pretty basic uh!?</p>
+
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://www.youtube.com/watch?v=Kppx4bzfAaE)
+
