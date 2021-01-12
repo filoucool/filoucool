@@ -18,7 +18,7 @@
 - hippopotomonstrosesquippedaliophobia is the fear of long words. <br>
 - 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. <br>
 - Flowers grow faster in a viagra solution. <br>
--If you farted for 6yrs, 9Mths, you would've produced enough gas to create the energy of an atomic bomb. <br>
+-If you farted for 6 years and 9 months, you would've produced enough gas to create the energy of an atomic bomb. <br>
 </p>
 
 ### What am I actually working on?
@@ -29,8 +29,8 @@
 <li> -Bringing back to life a PC-BOT 914... </li>
 <li> -I might be starting a 4th business? IDK... too early to tell... </li>
 <li> -Buying a house. IDK sounds like a good idea...? </li>
-<li> - </li>
-<li> - </li>
+<li> -A script that orders pizza on Uber eats if I scream "Fuck, im hungry as fuck" </li>
+<li> -Taking life seriously. </li>
  </ol>
 </p>
 
