@@ -18,7 +18,7 @@
 - hippopotomonstrosesquippedaliophobia is the fear of long words. <br>
 - 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. <br>
 - Flowers grow faster in a viagra solution. <br>
--If you farted for 6 years and 9 months, you would've produced enough gas to create the energy of an atomic bomb. <br>
+- If you farted for 6 years and 9 months, you would've produced enough gas to create the energy of an atomic bomb. <br>
 </p>
 
 ### What am I actually working on?
