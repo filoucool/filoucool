@@ -21,7 +21,7 @@
 - If you farted for 6 years and 9 months, you would produce as much energy as an atomic bomb. <br>
 </p>
 
-### What am I actually working on?
+### What will I be working on this year?
 <p>
 <ol>
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
@@ -29,7 +29,7 @@
 <li> Bringing back to life a PC-BOT 914... </li>
 <li> I might be starting a 4th business? IDK... too early to tell... </li>
 <li> Buying a house. IDK sounds like a good idea...? </li>
-<li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry as fuck" </li>
+<li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
 <li> Taking life seriously. </li>
 </ol>
 </p>
