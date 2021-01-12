@@ -13,9 +13,9 @@
 - Stupid fact: You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek
 
 ### What am I actually working on?
-<p>-A huge autonomous robot to plow my driveway because I'm a lazy fuck. <b>
--A walking Keurig coffee pod (I wish I was joking tbh) <b>
--Bringing back to life a PC-BOT 914... <b>
+<p>-A huge autonomous robot to plow my driveway because I'm a lazy fuck. <br>
+-A walking Keurig coffee pod (I wish I was joking tbh) <br>
+-Bringing back to life a PC-BOT 914... <br>
 -I might be starting a 4th business? IDK... too early to tell...
 -</p>
 
