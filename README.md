@@ -1,12 +1,13 @@
 ### Greetings,
 
-About me:
-  I have the soul of a programmer, the heart of an engineer and the blood of a business man. Confused? Me too
+###About me:
+  I think like a programmer but act like a hacker (ethical, Right? Right...?)  
+  I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
+        Confused yet? Me too
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... Dont
-- Stupid fact: You're twice as likely to be killed by a fucking vending machine than a shark
+###Things that dont really matter
+- I’m currently working on too many things. smh
+- I’m currently learning the physical basics of Quantum Computing.
+- I’m looking to collaborate on a major robot to take over the world.
+- Ask me about whatever you want. 
+- Stupid fact: You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek
