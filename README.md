@@ -19,13 +19,15 @@
 
 ### What am I actually working on?
 <p>
--A huge autonomous robot to plow my driveway because I'm a lazy fuck. <br>
--A ridiculously advanced walking Keurig coffee pod (I wish I was joking) <br>
--Bringing back to life a PC-BOT 914... <br>
--I might be starting a 4th business? IDK... too early to tell... <br>
--Buying a house. Why not right? <br>
--
--
+  <ol>
+<li> -A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
+<li> -A ridiculously advanced walking Keurig coffee pod (I wish I was joking) </li>
+<li> -Bringing back to life a PC-BOT 914... </li>
+<li> -I might be starting a 4th business? IDK... too early to tell... </li>
+<li> -Buying a house. IDK sounds like a good idea...? </li>
+<li> - </li>
+<li> - </li>
+ </ol>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
