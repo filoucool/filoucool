@@ -23,7 +23,7 @@
 
 ### What am I actually working on?
 <p>
-  <ol>
+<ol>
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) </li>
 <li> Bringing back to life a PC-BOT 914... </li>
@@ -31,9 +31,10 @@
 <li> Buying a house. IDK sounds like a good idea...? </li>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry as fuck" </li>
 <li> Taking life seriously. </li>
- </ol>
+</ol>
 </p>
-### To Github Staff is they ever see this message: I know I deleted my repos related to my Artic Vault Contributor Badge... But c'mon...We're friends right? Plus, it was an accident...! Give it back 😔
+
+<h3>To Github Staff is they ever see this message: I know I deleted my repos related to my Artic Vault Contributor Badge... But c'mon...We're friends right? Plus, it was an accident...! Give it back 😔</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
 
