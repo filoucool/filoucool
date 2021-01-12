@@ -11,7 +11,7 @@
  </p>
   
 
-### Things that dont matter
+### Things that actually matter
 <p>
 - Stupid fact: You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek <br>
 - Walmart ha s lower acceptance rate than Harvard. <br>
