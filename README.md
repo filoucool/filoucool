@@ -25,7 +25,7 @@
 <p>
 <ol>
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
-<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking)<img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"> </li>
+<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking)<img style="height:20"src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"> </li>
 
 <li> Bringing back to life a PC-BOT 914... </li>
 <li> Designing and manufacturing my first fully embedded ARM single board computer with GPU </li>
