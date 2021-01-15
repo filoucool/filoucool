@@ -27,7 +27,7 @@
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) </li>
 <li> Bringing back to life a PC-BOT 914... </li>
-<li> Designing and m,anufacturing my first fully embedded ARM single board computer with GPU </li>
+<li> Designing and manufacturing my first fully embedded ARM single board computer with GPU </li>
 <li> I might be starting a 4th business? IDK... too early to tell... </li>
 <li> Buying a house. IDK sounds like a good idea...? ✔️ </li>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
@@ -35,6 +35,7 @@
 <li> Taking life seriously. ❌ </li>
 </ol>
 </p>
+
 ### Whats new for 2021?
 <p>
   <ol>
