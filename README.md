@@ -27,12 +27,22 @@
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) </li>
 <li> Bringing back to life a PC-BOT 914... </li>
+<li> Designing and m,anufacturing my first fully embedded ARM single board computer with GPU </li>
 <li> I might be starting a 4th business? IDK... too early to tell... </li>
 <li> Buying a house. IDK sounds like a good idea...? ✔️ </li>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
 <li> Working with Kinova Robotics as part of an agreement between them and my school. </li>
 <li> Taking life seriously. ❌ </li>
 </ol>
+</p>
+### Whats new for 2021?
+<p>
+  <ol>
+    <li> I'm buying a brand new CO2 Laser cutting machine.</li>
+    <li> New 3D printer farm (Havent decided on the printer brands yet...) </li>
+    <li> PCB manufactering machine (idk costs a lot) </li>
+    <h3> all of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </h3?
+  </ol>
 </p>
 
 <h3>To Github Staff is they ever see this message: I know I deleted my repos related to my Artic Vault Contributor Badge... But c'mon...We're friends right? Plus, it was an accident...! Give it back 😔</h3>
