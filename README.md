@@ -41,7 +41,7 @@
     <li> I'm buying a brand new CO2 Laser cutting machine.</li>
     <li> New 3D printer farm (Havent decided on the printer brands yet...) </li>
     <li> PCB manufactering machine (idk costs a lot) </li>
-    <h3> all of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </h3?
+    <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
   </ol>
 </p>
 
