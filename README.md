@@ -25,13 +25,17 @@
 <p>
 <ol>
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
-<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) </li><img style="height:10px;" src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
-
+<img style="height:10px;" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/>
+<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) </li>
+<img style="height:10px;" src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
 <li> Bringing back to life a PC-BOT 914... </li>
+<img style="height:10px;" src="https://forthebadge.com/images/badges/built-with-resentment.svg"/>
 <li> Designing and manufacturing my first fully embedded ARM single board computer with GPU </li>
-<li> I might be starting a 4th business? IDK... too early to tell... </li>
+<img style="height:10px;" src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg"/>
 <li> Buying a house. IDK sounds like a good idea...? ✔️ </li>
+<img style="height:10px;" src="https://forthebadge.com/images/badges/no-ragrets.svg"/>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
+<img style="height:10px;" src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
 <li> Working with Kinova Robotics as part of an agreement between them and my school. </li>
 <li> Taking life seriously. ❌ </li>
 </ol>
