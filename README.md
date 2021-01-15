@@ -24,7 +24,7 @@
 ### What will I be working on in 2021?
 <p>
 <ol>
-<li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
+<li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. ![Progress](https://progress-bar.dev/10/) </li>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) </li>
 <li> Bringing back to life a PC-BOT 914... </li>
 <li> Designing and manufacturing my first fully embedded ARM single board computer with GPU </li>
