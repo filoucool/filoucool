@@ -35,7 +35,7 @@
 <li> Buying a house. IDK sounds like a good idea...? ✔️ </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/no-ragrets.svg"/>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
-<img style="height:10px;" src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
+<img style="height:10px;" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
 <li> Working with Kinova Robotics as part of an agreement between them and my school. </li>
 <li> Taking life seriously. ❌ </li>
 </ol>
