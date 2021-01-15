@@ -21,15 +21,16 @@
 - If you farted for 6 years and 9 months, you would produce as much energy as an atomic bomb. <br>
 </p>
 
-### What will I be working on this year?
+### What will I be working on in 2021?
 <p>
 <ol>
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) </li>
 <li> Bringing back to life a PC-BOT 914... </li>
 <li> I might be starting a 4th business? IDK... too early to tell... </li>
-<li> Buying a house. IDK sounds like a good idea...? </li>
+<li> Buying a house. IDK sounds like a good idea...? ✔️ </li>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
+<li> Working with Kinova Robotics as part of an agreement between them and my school. </li>
 <li> Taking life seriously. ❌ </li>
 </ol>
 </p>
