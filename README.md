@@ -38,6 +38,7 @@
 <img style="height:10px;" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
 <li> Working with Kinova Robotics as part of an agreement between them and my school. </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/for-robots.svg"/>
+<li> AR Glasses for Blind people. ❌ </li>
 <li> Taking life seriously. ❌ </li>
 </ol>
 </p>
