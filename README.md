@@ -26,8 +26,6 @@
 <ol>
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/>
-<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) (On hold for now) ❌</li>
-<img style="height:10px;" src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
 <li> Bringing back to life a PC-BOT 914... </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/built-with-resentment.svg"/>
 <li> Designing and manufacturing my first fully embedded ARM single board computer with GPU </li>
@@ -40,6 +38,14 @@
 <img style="height:10px;" src="https://forthebadge.com/images/badges/for-robots.svg"/>
 <li> AR Glasses for Blind people.</li>
 <li> Taking life seriously. ❌ </li>
+</ol>
+</p>
+
+
+### Projects on hold
+<p>
+<ol>
+<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) (On hold for now) ❌</li>
 </ol>
 </p>
 
