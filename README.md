@@ -46,6 +46,8 @@
 <p>
 <ol>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) (On hold for now) ❌</li>
+<li> Custom 3d printer ❌</li>
+
 </ol>
 </p>
 
