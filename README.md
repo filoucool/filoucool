@@ -1,6 +1,6 @@
 <H1> Greetings, </H1>
 
-<H4> About me: </H4>
+<H3> About me: </H3>
   <p>I think like a programmer but act like a hacker (ethical, Right? Right...?)  
   I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
   Confused yet? Me too </p>
@@ -22,7 +22,6 @@
 </ul>
 
 ### What will I be working on in 2021?
-<p>
 <ol>
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/>
@@ -39,28 +38,22 @@
 <li> AR Glasses for Blind people.</li>
 <li> Taking life seriously. ❌ </li>
 </ol>
-</p>
-
 
 ### Projects on hold
-<p>
 <ol>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) ❌</li>
 <li> Walking McDonalds BBQ nugget sauce ❌ </li>
 <li> Custom 3d printer ❌</li>
 <li> Custom aluminium extrusion lab </li>
 </ol>
-</p>
 
 ### Whats new for 2021?
-<p>
   <ol>
     <li> I'm buying a brand new CO2 Laser cutting machine.</li>
     <li> New 3D printer farm (Havent decided on the printer brands yet...) </li>
     <li> PCB manufactering machine (idk costs a lot) </li>
     <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
   </ol>
-</p>
 
 <h3>To Github Staff is they ever see this message: I know I deleted my repos related to my Artic Vault Contributor Badge... But c'mon...We're friends right? Plus, it was an accident...! Give it back 😔</h3>
 
