@@ -5,13 +5,13 @@
   I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
   Confused yet? Me too </p>
   
- ### What am I doing of my life?
+ <H3> What am I doing of my life? </H3>
  <ul>
   <li> I'm learning the physical basics of Quantum Computing. </li>
  </ul>
   
 
-### Facts that actually matter
+<H3> Facts that actually matter </H3>
 <ul>
 <li> You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek </li>
 <li> Walmart has a lower acceptance rate than Harvard. </li>
@@ -21,7 +21,7 @@
 <li> If you farted for 6 years and 9 months, you would produce as much energy as an atomic bomb. </li>
 </ul>
 
-### What will I be working on in 2021?
+<H3> What will I be working on in 2021? </H3>
 <ol>
 <li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/>
@@ -39,7 +39,7 @@
 <li> Taking life seriously. ❌ </li>
 </ol>
 
-### Projects on hold
+<H3> Projects on hold </H3>
 <ol>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) ❌</li>
 <li> Walking McDonalds BBQ nugget sauce ❌ </li>
@@ -47,7 +47,7 @@
 <li> Custom aluminium extrusion lab </li>
 </ol>
 
-### Whats new for 2021?
+<H3> Whats new for 2021? </H3>
   <ol>
     <li> I'm buying a brand new CO2 Laser cutting machine.</li>
     <li> New 3D printer farm (Havent decided on the printer brands yet...) </li>
@@ -55,14 +55,14 @@
     <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
   </ol>
 
-<h3>To Github Staff is they ever see this message: I know I deleted my repos related to my Artic Vault Contributor Badge... But c'mon...We're friends right? Plus, it was an accident...! Give it back 😔</h3>
+<H3>To Github Staff is they ever see this message: I know I deleted my repos related to my Artic Vault Contributor Badge... But c'mon...We're friends right? Plus, it was an accident...! Give it back 😔</H3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool"/>
 
 <p> Idk... my profile is pretty basic uh!?</p>
 
-<h3>Avongers assembol</h3>
+<H4>Avongers assembol</H4>
 
 [![SC2 Video](https://img.youtube.com/vi/B3WJaC-7g2c/0.jpg)](https://www.youtube.com/watch?v=B3WJaC-7g2c)
