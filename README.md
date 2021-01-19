@@ -1,4 +1,4 @@
-### Greetings,
+<H2>Greetings, </h2>
 
 ### About me:
   <p>I think like a programmer but act like a hacker (ethical, Right? Right...?)  
@@ -6,9 +6,9 @@
   Confused yet? Me too </p>
   
  ### What am I doing of my life?
- <p>
-  -I'm learning the physical basics of Quantum Computing.
- </p>
+ <ul>
+  <li> I'm learning the physical basics of Quantum Computing. </li>
+ </ul>
   
 
 ### Facts that actually matter
