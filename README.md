@@ -40,20 +40,20 @@
 </ol>
 
 <H3> Projects on hold </H3>
-<ol>
+<ul>
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) ❌</li>
 <li> Walking McDonalds BBQ nugget sauce ❌ </li>
 <li> Custom 3d printer ❌</li>
 <li> Custom aluminium extrusion lab </li>
-</ol>
+</ul>
 
 <H3> Whats new for 2021? </H3>
-  <ol>
+  <ul>
     <li> I'm buying a brand new CO2 Laser cutting machine.</li>
     <li> New 3D printer farm (Havent decided on the printer brands yet...) </li>
     <li> PCB manufactering machine (idk costs a lot) </li>
     <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
-  </ol>
+  </ul>
 
 <H3>To Github Staff is they ever see this message: I know I deleted my repos related to my Artic Vault Contributor Badge... But c'mon...We're friends right? Plus, it was an accident...! Give it back 😔</H3>
 
