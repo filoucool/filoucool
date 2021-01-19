@@ -1,6 +1,6 @@
-<H2>Greetings, </h2>
+<H1> Greetings, </H1>
 
-### About me:
+<H4> About me: </H4>
   <p>I think like a programmer but act like a hacker (ethical, Right? Right...?)  
   I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
   Confused yet? Me too </p>
