@@ -45,9 +45,10 @@
 ### Projects on hold
 <p>
 <ol>
-<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) (On hold for now) ❌</li>
+<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) ❌</li>
+<li> Walking McDonalds BBQ nugget sauce ❌ </li>
 <li> Custom 3d printer ❌</li>
-
+<li> Custom aluminium extrusion lab </li>
 </ol>
 </p>
 
