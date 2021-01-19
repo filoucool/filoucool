@@ -44,7 +44,7 @@
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) ❌</li>
 <li> Walking McDonalds BBQ nugget sauce ❌ </li>
 <li> Custom 3d printer ❌</li>
-<li> Custom aluminium extrusion lab </li>
+<li> Fully aluminium lab using 4040 aluminium extrusions (On hold because I just bought a house and will be moving soon) </li>
 </ul>
 
 <H3> Whats new for 2021? </H3>
