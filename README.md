@@ -12,14 +12,14 @@
   
 
 ### Facts that actually matter
-<p>
-- You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek <br>
-- Walmart has a lower acceptance rate than Harvard. <br>
-- hippopotomonstrosesquippedaliophobia is the fear of long words. <br>
-- 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. <br>
-- Flowers grow faster in a viagra solution. <br>
-- If you farted for 6 years and 9 months, you would produce as much energy as an atomic bomb. <br>
-</p>
+<ul>
+<li> You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek </li>
+<li> Walmart has a lower acceptance rate than Harvard. </li>
+<li> hippopotomonstrosesquippedaliophobia is the fear of long words. </li>
+<li> 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. </li>
+<li> Flowers grow faster in a viagra solution. </li>
+<li> If you farted for 6 years and 9 months, you would produce as much energy as an atomic bomb. </li>
+</ul>
 
 ### What will I be working on in 2021?
 <p>
