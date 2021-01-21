@@ -8,7 +8,7 @@
  <H3> What am I doing of my life? </H3>
  <ul>
   <li> I'm learning the physical basics of Quantum Computing. </li>
-  <li> Learning how to design a FPGA board to eventually design my own single board ARM computer </li>
+  <li> Learning how to design a FPGA board to eventually design my own single board ARM computer. </li>
  </ul>
   
 
