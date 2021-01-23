@@ -5,6 +5,14 @@
   I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
   Confused yet? Me too </p>
   
+ <H2> Étudiant de Gérald-Godin? Voici des liens vers les librairies:</H2>
+ <ul>
+  <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript</span></a> </li>
+  <li> <a href="https://github.com/filoucool/PythonExamples-Help"><span>Python</span></a></li>
+  <li> <a href="https://github.com/filoucool/Arduino_Code_Examples"><span>Arduino</span></a></li>
+  <li> <a href="https://github.com/filoucool/VHDL-Help"><span>VHDL</span></a></li>
+ </ul>
+ 
  <H3> What am I doing of my life? </H3>
  <ul>
   <li> I'm learning the physical basics of Quantum Computing. </li>
