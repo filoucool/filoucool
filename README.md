@@ -1,9 +1,8 @@
  <H1> Étudiant de Gérald-Godin? Voici des liens vers les librairies:</H1>
  <ul>
-  <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript</span></a> </li>
   <li> <a href="https://github.com/filoucool/PythonExamples-Help"><span>Python</span></a></li>
   <li> <a href="https://github.com/filoucool/Arduino_Code_Examples"><span>Arduino</span></a></li>
-  /*<li> <a href="https://github.com/filoucool/VHDL-Help"><span>VHDL</span></a></li>*/
+  <li> Autre librairies à venir</li>
  </ul>
  
  
@@ -76,3 +75,6 @@
 <H4>Avongers assembol</H4>
 
 [![SC2 Video](https://img.youtube.com/vi/B3WJaC-7g2c/0.jpg)](https://www.youtube.com/watch?v=B3WJaC-7g2c)
+<li> <a href="https://github.com/filoucool/VHDL-Help"><span>VHDL</span></a></li>
+  <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript</span></a> </li>
+
