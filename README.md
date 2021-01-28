@@ -1,10 +1,3 @@
-<H1> Greetings, </H1>
-
-<H3> About me: </H3>
-  <p>I think like a programmer but act like a hacker  
-  I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
-  Confused yet? Me too </p>
-  
  <H1> Étudiant de Gérald-Godin? Voici des liens vers les librairies:</H1>
  <ul>
   <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript</span></a> </li>
@@ -12,6 +5,16 @@
   <li> <a href="https://github.com/filoucool/Arduino_Code_Examples"><span>Arduino</span></a></li>
   <li> <a href="https://github.com/filoucool/VHDL-Help"><span>VHDL</span></a></li>
  </ul>
+ 
+ 
+ <H1> Greetings, </H1>
+
+<H3> About me: </H3>
+  <p>I think like a programmer but act like a hacker  
+  I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
+  Confused yet? Me too </p>
+  
+
  
  <H3> What am I doing of my life? </H3>
  <ul>
