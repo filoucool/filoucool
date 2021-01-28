@@ -7,6 +7,16 @@
  
  
  <H1> Greetings, </H1>
+<H3> Here are some facts that actually matter </H3>
+<ul>
+<li> You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek </li>
+<li> Walmart has a lower acceptance rate than Harvard. </li>
+<li> hippopotomonstrosesquippedaliophobia is the fear of long words. </li>
+<li> 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. </li>
+<li> Flowers grow faster in a viagra solution. </li>
+<li> If you farted for 6 years and 9 months, you would produce as much energy as an atomic bomb. </li>
+</ul>
+
 
 <H3> About me: </H3>
   <p>I think like a programmer but act like a hacker  
@@ -22,15 +32,7 @@
  </ul>
   
 
-<H3> Facts that actually matter </H3>
-<ul>
-<li> You're twice as likely to be killed by a fucking vending machine than a shark. Think about that. #SharkWeek </li>
-<li> Walmart has a lower acceptance rate than Harvard. </li>
-<li> hippopotomonstrosesquippedaliophobia is the fear of long words. </li>
-<li> 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. </li>
-<li> Flowers grow faster in a viagra solution. </li>
-<li> If you farted for 6 years and 9 months, you would produce as much energy as an atomic bomb. </li>
-</ul>
+
 
 <H3> What will I be working on in 2021? </H3>
 <ol>
