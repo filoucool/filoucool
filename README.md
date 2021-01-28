@@ -5,7 +5,7 @@
   I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
   Confused yet? Me too </p>
   
- <H2> Étudiant de Gérald-Godin? Voici des liens vers les librairies:</H2>
+ <H1> Étudiant de Gérald-Godin? Voici des liens vers les librairies:</H1>
  <ul>
   <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript</span></a> </li>
   <li> <a href="https://github.com/filoucool/PythonExamples-Help"><span>Python</span></a></li>
