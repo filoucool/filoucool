@@ -1,4 +1,4 @@
- <H1> Étudiant de Gérald-Godin? Voici des liens vers les librairies:</H1>
+ <H1> Étudiant de Gérald-Godin? Voici les liens vers les librairies:</H1>
  <ul>
   <li> <a href="https://github.com/filoucool/PythonExamples-Help"><span>Python</span></a></li>
   <li> <a href="https://github.com/filoucool/Arduino_Code_Examples"><span>Arduino (C)</span></a></li>
