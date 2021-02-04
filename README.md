@@ -1,5 +1,6 @@
  <H1> Étudiant de Gérald-Godin? Voici les liens vers les librairies:</H1>
  <ul>
+  <li> <a href="https://github.com/filoucool/Labo_Python_Rachid"><span>Laboratoires Python (Cours de Rachid)</span></a> </li>
   <li> <a href="https://github.com/filoucool/PythonExamples-Help"><span>Python</span></a></li>
   <li> <a href="https://github.com/filoucool/Arduino_Code_Examples"><span>Arduino (C)</span></a></li>
   <li> <a href="https://github.com/filoucool/C_Family_Code_Examples"><span>C/C++/C#</span></a></li>
