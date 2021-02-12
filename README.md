@@ -45,7 +45,7 @@
 
 <H3> What will I be working on in 2021? </H3>
 <ol>
-<li> A huge autonomous robot to plow my driveway because I'm a lazy fuck. </li>
+<li> A huge autonomous robot to plow my driveway because I'm lazy. </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/>
 <li> Bringing back to life a PC-BOT 914... </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/built-with-resentment.svg"/>
