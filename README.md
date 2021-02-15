@@ -15,7 +15,7 @@
  </ul>
  
  
- <H1> Greetings, </H1>
+ <H1> Greetings,</H1>
 <H3> Here are some facts that actually matter</H3>
 <ul>
  <li> 11% of Americans think "HTML" is a disease which means 89% of Americans are wrong. </li>
