@@ -42,8 +42,6 @@
  </ul>
   
 
-
-
 <H3> What will I be working on in 2021? </H3>
 <ol>
 <li> A huge autonomous robot to plow my driveway because I'm lazy. </li>
