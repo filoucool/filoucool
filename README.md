@@ -16,7 +16,6 @@
  </ul>
  
  
- 
  <H1> Greetings,</H1>
 <H3> Here are some facts that actually matter</H3>
 <ul>
