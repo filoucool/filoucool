@@ -41,7 +41,6 @@
   <li> I'm learning the physical basics of Quantum Computing. </li>
   <li> Learning how to design a FPGA board to eventually design my own single board ARM computer. </li>
  </ul>
-  
 
 <H3> What will I be working on in 2021? </H3>
 <ol>
