@@ -82,7 +82,8 @@
   </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left">  <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool"/>
+
 
 <p> Idk... my profile is pretty basic uh!?</p>
 
