@@ -1,8 +1,5 @@
-<article>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool"/>
- 
-</article>
  <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool"/>
+ 
 <H1> Étudiant de Gérald-Godin? Voici les liens vers les librairies:</H1>
  <ul>
   <li> <a href="https://github.com/filoucool/Labo_Python_Rachid"><span>Laboratoires Python (Cours de Rachid)</span></a> </li>
@@ -85,6 +82,7 @@
   </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> 
 
 <p> Idk... my profile is pretty basic uh!?</p>
 
