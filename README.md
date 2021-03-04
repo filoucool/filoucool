@@ -13,6 +13,7 @@
   <li> <a href="https://github.com/filoucool/Labos_Python_Rachid"><span>Labos en Python pour le cours de Rachid</span></a></li>
   <li> <a href="https://github.com/filoucool/differential-kinematics"><span>differential kinematics</span></a></li>
   <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript </span></a> </li>
+  <li> <a href="https://github.com/filoucool/Robot-Dynamixel"><span>Robot Dynamixel</span></a> </li>
   <li> Autre librairies à venir</li>
   <P> Certaines librairies sont vides! Si vous avez des questions ou des demandes de code/exemple, veuillez ouvrir un issue dans la librairie appropriée. </p>
  </ul>
