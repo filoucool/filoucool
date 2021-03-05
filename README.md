@@ -14,7 +14,7 @@
   <li> <a href="https://github.com/filoucool/differential-kinematics"><span>differential kinematics</span></a></li>
   <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript </span></a> </li>
   <li> <a href="https://github.com/filoucool/Robot-Dynamixel"><span>Robot Dynamixel</span></a> </li>
-  <li> <a href="https://github.com/filoucool/KinovaRobotics_X_cegep-gerald-godin"><span>Partenaria entre le Cégep Gérald-Godin et Kinova Robotics!</span></a> </li>
+  <li> <a href="https://github.com/filoucool/KinovaRobotics_X_cegep-gerald-godin"><span>Partenariat entre le Cégep Gérald-Godin et Kinova Robotics!</span></a> </li>
   <li> Autre librairies à venir</li>
   <P> Certaines librairies sont vides! Si vous avez des questions ou des demandes de code/exemple, veuillez ouvrir un issue dans la librairie appropriée. </p>
  </ul>
