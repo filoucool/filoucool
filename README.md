@@ -5,14 +5,9 @@
   <li> <a href="https://github.com/filoucool/Labo_Python_Rachid"><span>Laboratoires Python (Cours de Rachid)</span></a> </li>
   <li> <a href="https://github.com/filoucool/PythonExamples-Help"><span>Python</span></a></li>
   <li> <a href="https://github.com/filoucool/Arduino_Code_Examples"><span>Arduino (C)</span></a></li>
-  <li> <a href="https://github.com/filoucool/C_Family_Code_Examples"><span>C/C++/C#</span></a></li>
-  <li> <a href="https://github.com/filoucool/Unity3D_Help"><span>Unity3D</span></a></li>
   <li> <a href="https://github.com/filoucool/VHDL-Help"><span>VHDL</span></a></li>
-  <li> <a href="https://github.com/filoucool/AndroidStudio_Help"><span>Android Studio</span></a></li>
   <li> <a href="https://github.com/filoucool/Proteus8_Help"><span>Proteus 8.10</span></a></li>
-  <li> <a href="https://github.com/filoucool/differential-kinematics"><span>differential kinematics</span></a></li>
   <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript </span></a> </li>
-  <li> <a href="https://github.com/filoucool/Robot-Dynamixel"><span>Robot Dynamixel</span></a> </li>
   <li> <a href="https://github.com/filoucool/KinovaRobotics_X_cegep-gerald-godin"><span>Partenariat entre le Cégep Gérald-Godin et Kinova Robotics!</span></a> </li>
   <li> Autre librairies à venir</li>
   <P> Certaines librairies sont vides! Si vous avez des questions ou des demandes de code/exemple, veuillez ouvrir un issue dans la librairie appropriée. </p>
