@@ -17,9 +17,6 @@
   <li> Autre librairies à venir</li>
   <P> Certaines librairies sont vides! Si vous avez des questions ou des demandes de code/exemple, veuillez ouvrir un issue dans la librairie appropriée. </p>
  </ul>
- 
-
-
 
 
  <H1> Greetings,</H1>
