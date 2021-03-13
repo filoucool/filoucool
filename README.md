@@ -61,14 +61,12 @@
 <li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) ❌</li>
 <li> Walking McDonalds BBQ nugget sauce ❌ </li>
 <li> Custom 3d printer ❌</li>
-<li> Fully aluminium lab using 4040 aluminium extrusions (On hold because I just bought a house and will be moving soon) </li>
 </ul>
 
 <H3> Whats new for 2021? </H3>
   <ul>
     <li> I'm buying a brand new CO2 Laser cutting machine.</li>
     <li> New 3D printer farm (Havent decided on the printer brands yet but modt likely Creality) </li>
-    <li> PCB manufactering machine (idk costs a lot) </li>
     <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
   </ul>
 
