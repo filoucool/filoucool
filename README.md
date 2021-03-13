@@ -29,13 +29,6 @@
 <li> Walmart has a lower acceptance rate than Harvard. </li>
 <li> hippopotomonstrosesquippedaliophobia is the fear of long words.</li>
 </ul>
-
-
-
-<H3> About me: </H3>
-  <p>I think like a programmer but act like a hacker  
-  I have the soul of a programmer, the heart of an engineer but the blood of a business man. 
-  Confused yet? Me too </p>
   
 
  
