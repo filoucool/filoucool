@@ -60,7 +60,7 @@
 <H3> Whats new for 2021? </H3>
   <ul>
     <li> I'm buying a brand new CO2 Laser cutting machine.</li>
-    <li> New 3D printer farm (Havent decided on the printer brands yet but modt likely Creality) </li>
+    <li> New 3D printer farm (Havent decided on the printer brands yet but most likely Creality) </li>
     <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
   </ul>
 
