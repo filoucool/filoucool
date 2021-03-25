@@ -45,7 +45,7 @@
 <img style="height:10px;" src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg"/>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"/>
-<li> Working with Kinova Robotics as part of an agreement between them and my school. </li>
+<li> Working with Kinova Robotics as part of an agreement between them and my school. ✔️ </li>
 <img style="height:10px;" src="https://forthebadge.com/images/badges/for-robots.svg"/>
 <li> AR Glasses for Blind people.</li>
 <li> Taking life seriously. ❌ </li>
@@ -60,8 +60,8 @@
 
 <H3> Whats new for 2021? </H3>
   <ul>
-    <li> I'm buying a brand new CO2 Laser cutting machine.</li>
-    <li> New 3D printer farm (Havent decided on the printer brands yet but most likely Creality) </li>
+    <li> I'm buying a brand new CO2 Laser cutting machine.✔️</li>
+    <li> New 3D printer farm (Havent decided on the printer brands yet but most likely Creality) ✔️ </li>
     <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
   </ul>
 
