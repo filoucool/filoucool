@@ -31,17 +31,17 @@
  
  <H3> What am I doing of my life? </H3>
  <ul>
-  <li> I'm learning the physical basics of Quantum Computing. </li>
-  <li> Learning how to design a FPGA board to eventually design my own single board ARM computer. </li>
-  <li> Learning a few coding languages: PASCAL, SCRATCH, MATLAB, LISP AND PROLOG </li>
+  <li> I'm learning the physical basics of Quantum Computing. 👨‍💻 </li>
+  <li> Learning how to design a FPGA board to eventually design my own single board ARM computer. 👨‍💻 </li>
+  <li> Learning a few coding languages: PASCAL, SCRATCH, MATLAB, LISP AND PROLOG 👨‍💻</li>
 </ul>
 
 <H3> What will I be working on in 2021? </H3>
 <ol>
 <li> Controlling a Kinova Robotic arm with a 3DConnection SpaceMouse ✔️ </li>
 <li> New 3d printing filament rack and drying station ✔️ </li>
-<li> A huge autonomous robot to plow my driveway because I'm lazy. </li>
-<li> Bringing back to life a PC-BOT 914... </li>
+<li> A huge autonomous robot to plow my driveway because I'm lazy. 👨‍💻 </li>
+<li> Bringing back to life a PC-BOT 914... </li> 👨‍💻
 <li> Designing and manufacturing my first fully embedded ARM single board computer with GPU </li>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
 <li> Working with Kinova Robotics as part of an agreement between them and my school. ✔️ </li>
@@ -59,7 +59,7 @@
 <H3> Whats new for 2021? </H3>
   <ul>
     <li> I'm buying a brand new CO2 Laser cutting machine.✔️</li>
-    <li> Resin 3D printer?????</li>
+    <li> Resin 3D printer????? (maybe)</li>
     <li> New 3D printer farm (Havent decided on the printer brands yet but most likely Creality) ✔️ </li>
     <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
   </ul>
