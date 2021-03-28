@@ -41,11 +41,11 @@
 <li> Controlling a Kinova Robotic arm with a 3DConnection SpaceMouse ✔️ </li>
 <li> New 3d printing filament rack and drying station ✔️ </li>
 <li> A huge autonomous robot to plow my driveway because I'm lazy. 👨‍💻 </li>
-<li> Bringing back to life a PC-BOT 914... </li> 👨‍💻
-<li> Designing and manufacturing my first fully embedded ARM single board computer with GPU </li>
+<li> Bringing back to life a PC-BOT 914...👨‍💻 </li> 
+<li> Designing and manufacturing my first fully embedded ARM single board computer with GPU ❌ </li>
 <li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
 <li> Working with Kinova Robotics as part of an agreement between them and my school. ✔️ </li>
-<li> AR Glasses for Blind people.</li>
+<li> AR Glasses for Blind people. ❌</li>
 <li> Taking life seriously. ❌ </li>
 </ol>
 
