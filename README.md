@@ -11,7 +11,7 @@ tous les jours entre 8AM et 10h30PM (En raison du couvre feu, 9hPM
  </ul>
  </p>
  <H1>"Once we accept our limits,</H1>
- <img src="https://media.tenor.com/images/537f8081464118674136ed777d16d622/tenor.gif" alt="Dat BOIII" title="Dat BOIII" width="300"/>
+ <img src="https://media.tenor.com/images/537f8081464118674136ed777d16d622/tenor.gif" alt="Dat BOIII" title="Dat BOIII" width="250"/>
  <H1>we go beyond them."</H1>
 
 <H1> Étudiant de Gérald-Godin? Voici les liens vers les librairies:</H1>
