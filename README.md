@@ -1,4 +1,9 @@
  <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool"/>
+ <p>
+ Félix Chenette-Stewart sur Omnivox Gérald-Godin ou 1661633@cgodin.qc.ca
+ Venir me voir à mon bureau 469a (au fond de la classe 469b ou au fond du laboratoire 468)
+tous les jours entre 8AM et 10h30PM (En raison du couvre feu, 9hPM
+ </p>
  <H1>"Once we accept our limits,</H1>
  <img src="https://media.tenor.com/images/537f8081464118674136ed777d16d622/tenor.gif" alt="Dat BOIII" title="Dat BOIII" width="300"/>
  <H1>we go beyond them."</H1>
