@@ -1,13 +1,4 @@
  <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool"/>
-  <p> 
- "Even if things don't unfold the way you expected,  
- <br>
- don't be disheartened or give up. 
-  <br>
- One who continues to advance will win in the end"
-  <br>
- -Daisaku Ikeda
-  </p>
  <H1>
  Me Contacter
  </H1>
