@@ -6,7 +6,7 @@
  <ul>
   <li> Félix Chenette-Stewart sur Omnivox Gérald-Godin
   <li> 1661633@cgodin.qc.ca
-  <li>Venir me voir à mon bureau 469a (au fond de la classe 469b ou au fond du laboratoire 468)
+  <li>Venir me voir à mon bureau 469
 tous les jours entre 8AM et 10h30PM (En raison du couvre feu, 9hPM
  </ul>
  </p>
