@@ -7,7 +7,7 @@
   <li> Félix Chenette-Stewart sur Omnivox Gérald-Godin
   <li> 1661633@cgodin.qc.ca
   <li>Venir me voir à mon bureau 469
-  <li> rwar
+  
 tous les jours entre 8AM et 10h30PM (Variable à cause du covid... il est préférable de m'envoyer un message par omnivox ou discord)
  </ul>
  </p>
