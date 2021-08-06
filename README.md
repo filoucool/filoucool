@@ -38,15 +38,6 @@ tous les jours entre 8AM et 10h30PM (Variable à cause du covid... il est préf�
 <li> Walmart has a lower acceptance rate than Harvard. </li>
 <li> hippopotomonstrosesquippedaliophobia is the fear of long words.</li>
 </ul>
-  
-
- 
- <H3> What am I doing of my life? </H3>
- <ul>
-  <li> I'm learning the physical basics of Quantum Computing. 👨‍💻 </li>
-  <li> Learning how to design a FPGA board to eventually design my own single board ARM computer. 👨‍💻 </li>
-  <li> Learning a few coding languages👨‍💻</li>
-</ul>
 
 <H3> What will I be working on in 2021? </H3>
 <ol>
@@ -60,21 +51,6 @@ tous les jours entre 8AM et 10h30PM (Variable à cause du covid... il est préf�
 <li> AR Glasses for Blind people. ❌</li>
 <li> Taking life seriously. ❌ </li>
 </ol>
-
-<H3> Projects on hold </H3>
-<ul>
-<li> Custom 3d printer ❌</li>
- <li> Custom CNC router ❌</li>
-
-</ul>
-
-<H3> Whats new for 2021? </H3>
-  <ul>
-    <li> I'm buying a brand new CO2 Laser cutting machine.✔️</li>
-    <li> Resin 3D printer????? (maybe)</li>
-    <li> New 3D printer farm (Havent decided on the printer brands yet but most likely Creality) ✔️ </li>
-    <ul> All of this shit is directly related to my new lab so if shit hits the fan I aint getting none of these </ul>
-  </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
 
