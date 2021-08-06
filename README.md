@@ -45,7 +45,7 @@ tous les jours entre 8AM et 10h30PM (Variable à cause du covid... il est préf�
  <ul>
   <li> I'm learning the physical basics of Quantum Computing. 👨‍💻 </li>
   <li> Learning how to design a FPGA board to eventually design my own single board ARM computer. 👨‍💻 </li>
-  <li> Learning a few coding languages: PASCAL, SCRATCH, MATLAB, LISP AND PROLOG 👨‍💻</li>
+  <li> Learning a few coding languages👨‍💻</li>
 </ul>
 
 <H3> What will I be working on in 2021? </H3>
@@ -63,9 +63,9 @@ tous les jours entre 8AM et 10h30PM (Variable à cause du covid... il est préf�
 
 <H3> Projects on hold </H3>
 <ul>
-<li> A ridiculously advanced walking Keurig coffee pod (I wish I was joking) ❌</li>
-<li> Walking McDonalds BBQ nugget sauce ❌ </li>
 <li> Custom 3d printer ❌</li>
+ <li> Custom CNC router ❌</li>
+
 </ul>
 
 <H3> Whats new for 2021? </H3>
