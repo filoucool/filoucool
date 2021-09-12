@@ -21,8 +21,6 @@ tous les jours entre 8AM et 10h30PM (Variable à cause du covid... il est préf�
   <li> <a href="https://github.com/filoucool/PythonExamples-Help"><span>Python</span></a></li>
   <li> <a href="https://github.com/filoucool/Arduino_Code_Examples"><span>Arduino (C)</span></a></li>
   <li> <a href="https://github.com/filoucool/VHDL-Help"><span>VHDL</span></a></li>
-  <li> <a href="https://github.com/filoucool/Proteus8_Help"><span>Proteus 8.10</span></a></li>
-  <li> <a href="https://github.com/filoucool/Html-Css-Javascript_Examples"><span>Html - Css - Sass - JavaScript </span></a> </li>
   <li> <a href="https://github.com/filoucool/KinovaRobotics_X_cegep-gerald-godin"><span>KinovaRobotics_X_cegep-gerald-godin</span></a> </li>
   <li> Autre librairies à venir</li>
   <P> Certaines librairies sont vides! Si vous avez des questions ou des demandes de code/exemple, veuillez ouvrir un issue dans la librairie appropriée. </p>
@@ -39,18 +37,6 @@ tous les jours entre 8AM et 10h30PM (Variable à cause du covid... il est préf�
 <li> hippopotomonstrosesquippedaliophobia is the fear of long words.</li>
 </ul>
 
-<H3> What will I be working on in 2021? </H3>
-<ol>
-<li> Controlling a Kinova Robotic arm with a 3DConnection SpaceMouse ✔️ </li>
-<li> New 3d printing filament rack and drying station ✔️ </li>
-<li> A huge autonomous robot to plow my driveway because I'm lazy. 👨‍💻 </li>
-<li> Bringing back to life a PC-BOT 914...👨‍💻 </li> 
-<li> Designing and manufacturing my first fully embedded ARM single board computer with GPU ❌ </li>
-<li> A script that orders pizza on Uber eats if I scream "Fuck, im hungry" ✔️ </li>
-<li> Working with Kinova Robotics as part of an agreement between them and my school. ✔️ </li>
-<li> AR Glasses for Blind people. ❌</li>
-<li> Taking life seriously. ❌ </li>
-</ol>
 
 <img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
 
