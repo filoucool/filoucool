@@ -39,13 +39,3 @@ tous les jours entre 8AM et 10h30PM (Variable à cause du covid... il est préf�
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=filoucool&show_icons=true" alt="filoucool" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool)](https://github.com/filoucool/github-readme-stats)<p align="left"> <img src="https://komarev.com/ghpvc/?username=filoucool" alt="filoucool"/>
-
-
-
-<p> Idk... my profile is pretty basic uh!?</p>
-
-<H4>Avongers assembol</H4>
-
-[![SC2 Video](https://img.youtube.com/vi/B3WJaC-7g2c/0.jpg)](https://www.youtube.com/watch?v=B3WJaC-7g2c)
