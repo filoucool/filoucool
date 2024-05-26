@@ -1,5 +1,9 @@
 ![github-header-image](https://github.com/filoucool/filoucool/assets/25182703/78d4b62f-f19f-4193-b207-3a024bbd4e97)
 # Introduction
+Hi there! 👋
+<br>
+<br>
+I'm Félix, a passionate and versatile developer with a knack for solving complex problems and creating efficient, user-friendly applications. With a solid foundation in full stack development, robotics, and computer vision, I thrive at the intersection of technology and innovation.
 # What I'm currently working on
 # Languages & Tools
 <table>
