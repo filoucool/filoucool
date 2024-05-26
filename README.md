@@ -58,7 +58,6 @@
       </a>
       <br>Docker
     </td>
-       </td>
     <td align="center" width="96">
       <a href="" >
         <img src="https://banner2.cleanpng.com/20190418/qty/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-5cb80ea9bc03d6.8054658415555662497701.jpg" width="48" height="48" alt="aws" />
@@ -67,6 +66,7 @@
     </td>
   </tr>
 </table>
+
 # Stats
 # Favorite Repos
  
