@@ -68,13 +68,10 @@
 </table>
 
 # Stats
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool&hide=G-code,html,css,cmake" />
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/filoucool/github-stats-transparent/output/generated/overview.svg" alt="filoucool" align="right" />
 </a>
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filoucool&hide=G-code,html,css,cmake" />
 
 # Favorite Repos
  
