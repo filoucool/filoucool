@@ -5,6 +5,16 @@ Hi there! 👋
 <br>
 I'm Félix, a passionate and versatile developer with a knack for solving complex problems and creating efficient, user-friendly applications. With a solid foundation in full stack development, robotics, and computer vision, I thrive at the intersection of technology and innovation.
 # What I'm currently working on
+# What I do
+- Full Stack Development: Experienced in building robust web applications using ReactJS, Node.js, WebSocket, and Express.js. Skilled in state management with XState and MobX, and optimizing CI/CD pipelines with GitHub Actions.
+- Robotics & ROS: Adept at working with ROS Melodic and transitioning to ROS2 for enhanced capabilities. Currently engaged in projects involving the xArm 6 robotic arm and Leap Motion controller for intuitive hand tracking and control.
+- Computer Vision: Utilizing the Intel RealSense D435i camera for color detection and object classification, pushing the boundaries of what's possible with machine vision.
+
+# What I'm learning
+- Transitioning from ROS to ROS2 to leverage its advanced features.
+- Exploring new frontiers in computer vision and machine learning.
+- Continuously enhancing my full stack development skills to build more powerful and scalable applications.
+
 # Languages & Tools
 <table>
   <tr>
