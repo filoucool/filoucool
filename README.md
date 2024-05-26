@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/filoucool/filoucool/assets/25182703/78d4b62f-f19f-4193-b207-3a024bbd4e97)
 # Introduction
 # What I'm currently working on
 # Languages & Tools
