@@ -20,7 +20,7 @@ I'm Félix, a passionate and versatile developer with a knack for solving comple
   <tr>
     <td align="center" width="96">
       <a href="">
-        <img src="https://ardupilot.org/dev/_images/ros2_logo.jpg" width="48" height="48" alt="ROS2" />
+        <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" width="48" height="48" alt="ROS2" />
       </a>
       <br>ROS2
     </td>
