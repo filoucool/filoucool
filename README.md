@@ -74,7 +74,7 @@ I'm Félix, a passionate and versatile developer with a knack for solving comple
     </td>
     <td align="center" width="96">
       <a href="" >
-        <img src="https://banner2.cleanpng.com/20190418/qty/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-5cb80ea9bc03d6.8054658415555662497701.jpg" width="48" height="48" alt="aws" />
+        <img src="https://toppng.com/uploads/preview/amazon-web-services-11550113695pg4ppffsio.png" width="48" height="48" alt="aws" />
       </a>
       <br>aws
     </td>
